@@ -1,4 +1,4 @@
-# networknotes
+# networkNotes
 
 "ss-4" shows IPv4 socket connections
 
